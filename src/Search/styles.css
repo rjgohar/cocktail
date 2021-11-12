@@ -1,0 +1,35 @@
+.search-bar {
+  margin-top: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.data {
+  width: 500px;
+}
+.label {
+  margin-left: 0.8rem;
+  font-weight: bold;
+  font-size: larger;
+  word-wrap: break-word;
+  letter-spacing: 0.2rem;
+  color: #476a2e;
+}
+.input {
+  width: 90%;
+  height: 30px;
+  border: none;
+  margin-bottom: 5px;
+  background-color: rgb(233, 237, 247);
+  text-align: center;
+  margin-left: 5px;
+  font-weight: bold;
+  color: gray;
+  letter-spacing: 0.2rem;
+}

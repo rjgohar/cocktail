@@ -1,0 +1,19 @@
+.card-detail {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+.img-carddetail {
+  width: 450px;
+  height: 400px;
+}
+.body-carddetail {
+  margin: 2% 3% 0 3%;
+}
+.txt {
+  background-color: lightgreen;
+  border-radius: 5px;
+  margin-right: 10px;
+}

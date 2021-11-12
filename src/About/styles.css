@@ -1,0 +1,23 @@
+.body {
+  background-color: #f1f5f8;
+}
+.about-div {
+  padding: 5rem;
+  margin-top: 50px;
+  width: 50%;
+  margin: 0 auto;
+}
+.about-head {
+  font-size: x-large;
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}
+.about-text {
+  padding: 10px;
+  line-height: 2rem;
+  letter-spacing: 2px;
+  overflow: hidden;
+  text-align: center;
+  word-wrap: break-word;
+}
